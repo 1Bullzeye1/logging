@@ -1,0 +1,11 @@
+2022-06-20 18:21:12,374:ERROR:tried to divide by zero
+2022-06-20 18:26:07,537:ERROR:tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\logging\logging_level1.py", line 28, in div
+    result =  x/y
+ZeroDivisionError: division by zero
+2022-06-20 18:27:40,786:ERROR:tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\logging\logging_level1.py", line 28, in div
+    result =  x/y
+ZeroDivisionError: division by zero
